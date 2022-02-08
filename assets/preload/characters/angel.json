@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AngelIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				1175
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ZAngel",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				298
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AngelLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				277
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AngelDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				305
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AngelUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				293
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AngelRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/isaacAngel",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "isaac1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		189
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

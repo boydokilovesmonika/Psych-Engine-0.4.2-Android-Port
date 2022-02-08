@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ShiftingIdle"
+		},
+		{
+			"offsets": [
+				65,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ShiftingLeft"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ShiftingDown"
+		},
+		{
+			"offsets": [
+				10,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ShiftingUp"
+		},
+		{
+			"offsets": [
+				2,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ShiftingRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/isaac2",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "isaac1",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		189
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
