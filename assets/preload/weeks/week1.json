@@ -1,0 +1,39 @@
+{
+	"storyName": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"innocence-glitched",
+			"isaac1",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"innermost-apocalypse",
+			"isaac1",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "week1"
+}
