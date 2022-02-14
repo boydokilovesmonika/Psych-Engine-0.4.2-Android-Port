@@ -1,39 +1,30 @@
 {
-	"storyName": "",
+	"songs": [
+		[
+			"chaotic-endeavors",
+			"majin",
+			[
+				0,
+				0,
+				53
+			]
+		]
+	],
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "week1",
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "???",
+	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
-	"songs": [
-		[
-			"innocence-glitched",
-			"isaac1",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"innermost-apocalypse",
-			"isaac1",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
-	"weekName": "week1"
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
