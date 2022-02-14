@@ -14,18 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				5,
-				-6
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-10,
+				-40,
 				-50
 			],
 			"anim": "singDOWN",
@@ -36,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
+				-9,
 				27
 			],
 			"anim": "singUP",
@@ -47,18 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
-				-7
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				7,
+				-63,
 				19
 			],
 			"anim": "singLEFTmiss",
@@ -69,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-15,
-				-19
+				-45,
+				-9
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -81,7 +59,7 @@
 			"loop": false,
 			"offsets": [
 				-36,
-				27
+				37
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -91,7 +69,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-44,
+				36,
 				22
 			],
 			"anim": "singRIGHTmiss",
@@ -135,39 +113,6 @@
 		{
 			"loop": false,
 			"offsets": [
-				37,
-				11
-			],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "BF dies",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				37,
-				5
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "BF Dead Loop",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				37,
-				69
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "BF Dead confirm",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				-10,
 				-16
 			],
@@ -179,7 +124,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				294,
+				-56,
 				267
 			],
 			"anim": "attack",
@@ -197,6 +142,28 @@
 			"fps": 24,
 			"name": "bf pre attack",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -206,7 +173,7 @@
 		350
 	],
 	"healthicon": "sayori",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		49,
 		255,
